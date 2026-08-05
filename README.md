@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Shashi Pathariya
 
-### 🚀 QA & Backend Enthusiast | Python Backend Developer | API Testing | SQL |Manual Testing | Selenium (Basics) | MCA Graduate
+### 🚀 Python & Backend Enthusiast | Python Backend Begginer | API Testing | SQL | Manual Testing |Always Learning AI & ML | MCA Graduate
 
 📧 **Email:** [pathariyashashi@gmail.com](mailto:pathariyashashi@gmail.com)
 🌐 **LinkedIn:** https://www.linkedin.com/in/shashi-pathariya-06b07a281
